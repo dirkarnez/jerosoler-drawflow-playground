@@ -5,3 +5,6 @@
 ### TODOs
 - [ ] z-index?
 - [ ] drag module like [this example](https://jerosoler.github.io/Drawflow)
+
+### Awesomeness
+- https://github.com/flowrails/awesome-node-editors
